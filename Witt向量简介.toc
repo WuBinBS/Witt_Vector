@@ -1,0 +1,24 @@
+\contentsline {section}{前言}{1}{Doc-Start}%
+\contentsline {section}{\numberline {1}整数环${\mathbb {Z}}$的完备化}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}环上赋值基础}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}三个特殊赋值与Ostrowski定理}{15}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}$\mathbb {Z}$的一种完备化结果}{27}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}本节小结}{37}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Witt向量引入}{39}{section.2}%
+\contentsline {subsection}{\numberline {2.1}$\mathbb {Z}_p$表示法}{39}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Witt向量的代数背景}{43}{subsection.2.2}%
+\contentsline {section}{\numberline {3}用$\DOTSB \prod@ \slimits@ _{n\ge 0}^{{}}{{{\mathbb {F}}_{p}}}$表示${{\mathbb {Z}}_{p}}$}{51}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Witt多项式}{51}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Witt向量的环结构}{57}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}模理想同余简述}{58}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}环运算封闭性}{61}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}其他环条件的验证}{66}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}原像集为Witt向量环的环态射}{71}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Teichmüller提升简述}{72}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}态射性验证}{79}{subsubsection.3.3.2}%
+\contentsline {section}{\numberline {A}附录}{87}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}关于组合数是整数的一种严格证明}{87}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}完备化的若干问题说明}{89}{subsection.A.2}%
+\contentsline {section}{索引}{95}{Item.203}%
+\contentsline {section}{参考文献}{97}{Item.203}%
+\contentsline {section}{致谢}{99}{Item.203}%
